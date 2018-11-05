@@ -1,4 +1,4 @@
-# research_summary
+# My experience summary
 <font color='blue' size='5'>I am expert in statistical data analysis, machine learning algorithms, 
 and multi-omics NGS data that helps us deep understand cancer and complex system.
 <font color='blue' size='5'>
