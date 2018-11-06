@@ -10,5 +10,5 @@ My developed pipeline to analyze:
 4. __[Microbiome](https://github.com/FADHLyemen/MICREIOBIOME)__
 5. __[RNA-SEQ](https://github.com/FADHLyemen/rnaseq)__
 6. __[Methylation](https://github.com/FADHLyemen/methylation_pipeline/blob/master/Methylation_Pipeline_GarmireLab.ipynb)__
-7. __[Drug](https://pubs.acs.org/doi/full/10.1021/acs.jproteome.7b00595)__
+7. __[Drug](https://github.com/FADHLyemen/tamdrug)__
 
