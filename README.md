@@ -4,6 +4,7 @@ and multi-omics NGS data that helps us deep understand cancer and complex diseas
 <font color='blue' size='5'>
 My research expereince are:
 <font color='black' size='5'>
+ ![Image description](./Capture.PNG)
  
 1- Biomarker discovery
 
