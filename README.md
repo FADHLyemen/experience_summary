@@ -1,6 +1,5 @@
 # My experience summary
-<font color='blue' size='5'>I am expert in statistical data analysis, machine learning algorithms, 
-and multi-omics NGS data that helps us deep understand cancer and complex disease.
+<font color='blue' size='5'> I am expert in statistical data analysis, machine learning algorithms, and multi-omics NGS data with the goal to understand complex disease using glomerular diseases as model
 <font color='blue' size='5'>
 My research expereince are:
 <font color='black' size='5'>
